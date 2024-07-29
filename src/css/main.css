@@ -1205,3 +1205,11 @@ div#yotpo-mobile-filters-popup .yotpo-mobile-filters-popup-header button.yotpo-m
 .yotpo-reviews-main-widget .yotpo-main-widget-layout .yotpo-main-layout .yotpo-reviews-container .yotpo-reviews-list .yotpo-review .yotpo-review-left-panel .yotpo-reviewer .yotpo-reviewer-image .yotpo-verified-icon-wrapper svg.yotpo-verified-icon circle {
     fill: #2f84ed;
 }
+
+
+
+/* Star Rating */
+.yotpo-sr-bottom-line-summary .yotpo-sr-bottom-line-right-panel .yotpo-sr-bottom-line-text.yotpo-sr-bottom-line-text--right-panel {
+    color: #e41664 !important;
+    font-size: 13px !important;
+}
