@@ -1176,7 +1176,8 @@ div#yotpo-mobile-filters-popup .yotpo-mobile-filters-popup-header button.yotpo-m
 }
 .yotpo-main-widget-layout.yotpo-align-text .yotpo-base-layout .yotpo-main-layout.yotpo-main-reviews-widget div#yotpo-reviews-container .yotpo-reviews-list .yotpo-review .yotpo-review-center-panel .yotpo-review-rating-title .yotpo-review-title {
     font-size: 14px;
-      margin-top: 5px;
+    margin-top: 5px;
+    color: #6B6D76;
 }
 .yotpo-main-widget-layout.yotpo-align-text .yotpo-base-layout .yotpo-main-layout.yotpo-main-reviews-widget div#yotpo-reviews-container .yotpo-reviews-list .yotpo-review .yotpo-review-left-panel .yotpo-reviewer .yotpo-initials-background {
     fill: #ef73a2;
