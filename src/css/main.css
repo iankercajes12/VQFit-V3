@@ -1285,3 +1285,6 @@ nav.yotpo-pagination-container a.selected.yotpo-pagination-item.yotpo-pagination
     width: unset;
     height: unset;
 }
+.yotpo-reviews-main-widget.yotpo-display-s .yotpo-main-widget-layout [class*=yotpo-main-] .yotpo-mobile-filters-popup-overlay-container .yotpo-mobile-filters-popup-content .yotpo-mobile-filters-popup-field-wrapper .yotpo-media-filter svg.yotpo-radio-icon path {
+
+}
