@@ -1256,6 +1256,9 @@ nav.yotpo-pagination-container a.selected.yotpo-pagination-item.yotpo-pagination
     fill: blue;
 }
 /* Star Rating */
+.yotpo-reviews-star-ratings-widget.yotpo-star-ratings-widget-override-css * {
+    font-family: 'Montserrat',sans-serif !important;
+}
 .yotpo-sr-bottom-line-summary .yotpo-sr-bottom-line-right-panel .yotpo-sr-bottom-line-text.yotpo-sr-bottom-line-text--right-panel {
     color: #e41664 !important;
     font-size: 13px !important;
